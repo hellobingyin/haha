@@ -1,7 +1,8 @@
 /**/
-6¡¢½¨Á¢ÐÂ¹¤³ÌÏîÄ¿²¢ÍÆËÍµ½github·þÎñÆ÷
-$ mkdir tmp      //´´½¨ÍÆËÍÄ¿Â¼
-$ cd tmp         //½øÈëÍÆËÍÄ¿Â¼
-$ git init       //ÉèÖÃ¸ÃÄ¿Â¼ÎªÍÆËÍ
-$ touch README   //Éú³Éreadme.
-/*Ìí¼ÓÎÄ¼þ·½Ê½*/
+6ã€å»ºç«‹æ–°å·¥ç¨‹é¡¹ç›®å¹¶æŽ¨é€åˆ°githubæœåŠ¡å™¨
+$ mkdir tmp      //åˆ›å»ºæŽ¨é€ç›®å½•
+$ cd tmp         //è¿›å…¥æŽ¨é€ç›®å½•
+$ git init       //è®¾ç½®è¯¥ç›®å½•ä¸ºæŽ¨é€
+$ touch README   //ç”Ÿæˆreadme.
+/*æ·»åŠ æ–‡ä»¶æ–¹å¼*/
+eee
