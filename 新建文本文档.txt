@@ -7,8 +7,12 @@ $ touch README   //生成readme.
 /*添加文件方式*/
 eee
 
+<<<<<<< HEAD
 ddd
 
 www
 
 q
+=======
+ddd
+>>>>>>> parent of 1365a16... t5
